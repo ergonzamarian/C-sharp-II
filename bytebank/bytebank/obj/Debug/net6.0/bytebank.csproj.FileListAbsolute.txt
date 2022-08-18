@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\obj\Debug\net6.0\bytebank.dll
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-II\bytebank\bytebank\obj\Debug\net6.0\ref\bytebank.dll
