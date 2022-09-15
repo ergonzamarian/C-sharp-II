@@ -44,5 +44,25 @@ Console.WriteLine("Boas Vindas ao seu banco, ByteBank!");
 //Console.WriteLine(cliente.nome);
 
 //Console.WriteLine(conta3.titular.cpf);
+/*
+Cliente sarah = new Cliente(); 
+sarah.Nome = "Sarah Silva Teste";
+
+ContaCorrente conta4 = new ContaCorrente(235,"123456-x");
+
+conta4.SetSaldo(100);
+conta4.Titular = sarah;
+
+Console.WriteLine(conta4.Titular.Nome);
+Console.WriteLine(conta4.GetSaldo());
+Console.WriteLine(conta4.Numero_agencia);
+Console.WriteLine(conta4.Conta);
+*/
+
+ContaCorrente conta5 = new ContaCorrente(235,"123456-x");
+
+ContaCorrente conta6 = new ContaCorrente(238,"698456-y");
+
+Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
 
 Console.ReadKey();
